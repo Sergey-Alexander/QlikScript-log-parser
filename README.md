@@ -1,0 +1,1 @@
+# QlikScript-log-parser
